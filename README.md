@@ -17,14 +17,40 @@ Vos portes s’ouvrent à votre approche, offrant un accès rapide et sans effor
 Disjoncteur Principal.
 Optimisez votre consommation avec des systèmes de gestion d'énergie performants. Réduisez vos factures et préservez la planète !
 
-# 💿 UTILISATION
-## Installation des dependences flutter
+# 🍻 Matériel nécessaire
+- ESP32
+- Capteur ultrason (HC-SR04)
+- Servo moteur (pour l'ouverture/fermeture de la porte)
+- Capteur de luminosité (LDR)
+- Capteur de pluie
+- Capteur de température et d’humidité (DHT11)
+- Lampes (2 à l'intérieur et 1 à l'extérieur)
+- LED (pour simuler le chauffage)
+- Bouton poussoir (pour simuler l'interrupteur de lumière)
+- Batterie 3V + Solar Power Manager V1.0
+- Détecteur de mouvement
+- LED (pour simuler un climatiseur)
 
+# 💿 Installation et configuration
+1. **Clonez le dépôt** :
+   ```bash
+   git clone https://github.com/Rahkillah/home_automation
+   cd votre-repo
+
+2. Tele
+
+3. **Installation des dependences flutter** :
+    ```bash
     flutter pub get
-
-## Lancement de l’application
+    ```
+4. **Lancement de l’application** :
+    ```bash
     flutter run
+    ```
 
+# 📖 Utilisation
+- Assurez-vous que tous les composants sont correctement connectés à l'ESP32 selon le schéma de connexion.
+- Vérifiez que l'ESP32 est alimenté via la batterie 3V ou une autre source d'alimentation.
 
 ## License
 © [RANDRIANAOVO Andrandraina](https://facebook.com.com/andrandraina.10)
