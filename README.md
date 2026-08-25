@@ -54,10 +54,6 @@ Optimisez votre consommation avec des systèmes de gestion d'énergie performant
 - Vérifiez que l'ESP32 est alimenté via la batterie 3V ou une autre source d'alimentation.
 
 ## License
-© [RANDRIANAOVO Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo-562aa3282/)
+© [RANDRIANAOVO Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo/)
 
-© [Haja RANAIVOSON](https://facebook.com.com/andrandraina.10)
-=======
-© [RANDRIANAOVO Andrandraina](https://facebook.com.com/andrandraina.10)
-
-© [Haja RANAIVOSON](https://facebook.com.com/andrandraina.10)
+© Haja RANAIVOSON
