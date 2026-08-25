@@ -35,7 +35,7 @@ Optimisez votre consommation avec des systèmes de gestion d'énergie performant
 1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/Rahkillah/home_automation
-   cd votre-repo
+   cd home_automation
 
 2. Tele
 
