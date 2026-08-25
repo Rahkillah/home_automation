@@ -35,7 +35,11 @@ Optimisez votre consommation avec des systèmes de gestion d'énergie performant
 1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/Rahkillah/home_automation
+<<<<<<< HEAD
    cd home_automation
+=======
+   cd votre-repo
+>>>>>>> e7d122dd57b9b80bc2c2f443b6fba671cdeec4da
 
 2. Tele
 
@@ -53,6 +57,12 @@ Optimisez votre consommation avec des systèmes de gestion d'énergie performant
 - Vérifiez que l'ESP32 est alimenté via la batterie 3V ou une autre source d'alimentation.
 
 ## License
+<<<<<<< HEAD
 © [RANDRIANAOVO Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo-562aa3282/)
 
 © [Haja RANAIVOSON](https://facebook.com.com/andrandraina.10)
+=======
+© [RANDRIANAOVO Andrandraina](https://facebook.com.com/andrandraina.10)
+
+© [Haja RANAIVOSON](https://facebook.com.com/andrandraina.10)
+>>>>>>> e7d122dd57b9b80bc2c2f443b6fba671cdeec4da
