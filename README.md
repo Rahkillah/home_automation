@@ -1,23 +1,26 @@
-Technologies de l'habitat
+Smart Home Automation
 =================
 
-# Découvrez la Maison Intelligente de Demain !
+# Discover the Smart Home of Tomorrow!
 
-- Sécurité Avancé :
-Dormez sur vos deux oreilles grâce à un système de sécurité intelligent. De la surveillance en temps réel à l'accès à distance via smartphone, votre maison est sous haute protection, où que vous soyez.
+This project is an IoT-based smart home automation system built around an ESP32 and Flutter. It combines security, energy management, environmental monitoring, and home automation features to create a safer, smarter, and more efficient living environment.
 
-- Gestion intelligent de l’Energie :
-Économisez de l'énergie sans y penser ! Nos capteurs détectent l'absence de mouvement et éteignent automatiquement les lumières lorsqu'aucune présence n'est détectée, assurant un éclairage uniquement là où c'est nécessaire.
+# Advanced Security
+Sleep peacefully with an intelligent home security system. From real-time monitoring to remote access via smartphone, your home remains protected wherever you are.
 
-- Détection d'Incendie :
-Recevez des notifications instantanées en cas de détection de fumée ou d'intrusion. Votre sécurité, notre priorité.
+# Smart Energy Management
+Save energy effortlessly. Motion sensors detect when a room is unoccupied and automatically turn off the lights when no presence is detected, ensuring that energy is used only when necessary.
 
-- Ouverture Automatique des Portes :
-Vos portes s’ouvrent à votre approche, offrant un accès rapide et sans effort.
-Disjoncteur Principal.
-Optimisez votre consommation avec des systèmes de gestion d'énergie performants. Réduisez vos factures et préservez la planète !
+# Fire & Intrusion Detection
+Receive instant notifications when smoke, fire, or unauthorized movement is detected. Your safety is our priority.
 
-# 🍻 Matériel nécessaire
+# Automatic Door Opening
+Doors automatically open when you approach, providing convenient and effortless access.
+
+# Main Circuit Breaker & Energy Management
+Optimize your energy consumption through efficient energy management systems. Reduce energy costs while contributing to a more sustainable environment.
+
+# Required Hardware
 - ESP32
 - Capteur ultrason (HC-SR04)
 - Servo moteur (pour l'ouverture/fermeture de la porte)
@@ -31,27 +34,27 @@ Optimisez votre consommation avec des systèmes de gestion d'énergie performant
 - Détecteur de mouvement
 - LED (pour simuler un climatiseur)
 
-# 💿 Installation et configuration
-1. **Clonez le dépôt** :
+# Installation & Setup
+1. **Clone the repository** :
    ```bash
    git clone https://github.com/Rahkillah/home_automation
 
    cd home_automation
 
-2. Tele
-
-3. **Installation des dependences flutter** :
+2. **Install Flutter dependencies** :
     ```bash
     flutter pub get
     ```
-4. **Lancement de l’application** :
+3. **Run the application** :
     ```bash
     flutter run
     ```
 
-# 📖 Utilisation
-- Assurez-vous que tous les composants sont correctement connectés à l'ESP32 selon le schéma de connexion.
-- Vérifiez que l'ESP32 est alimenté via la batterie 3V ou une autre source d'alimentation.
+# 📖 Usage
+- Make sure all components are correctly connected to the ESP32 according to the wiring diagram.
+- Ensure that the ESP32 is properly powered using the 3V battery or another compatible power source.
+- Launch the Flutter application using flutter run.
+- Verify that the sensors and actuators are communicating correctly with the ESP32.
 
 ## License
 © [RANDRIANAOVO Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo/)
